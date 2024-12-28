@@ -9,7 +9,6 @@ TinDog-Startup-Website <br/>
 
 <center>
 
-https://forthebadge.com/images/badges/css-farme-work-bootstrap-5.svg
 
 [![forthebadge](https://forthebadge.com/images/badges/css-farme-work-bootstrap-5.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com) &nbsp;
